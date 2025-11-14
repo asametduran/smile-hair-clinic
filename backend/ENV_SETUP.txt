@@ -1,0 +1,14 @@
+# .env Dosyası Oluşturma Talimatları
+
+Backend klasöründe .env dosyası oluşturun ve şu içeriği ekleyin:
+
+MONGODB_URI=mongodb://localhost:27017/smile_hair_clinic
+JWT_SECRET=smile-hair-clinic-secret-key-2024
+PORT=3000
+CORS_ORIGIN=*
+
+# MongoDB Atlas kullanıyorsanız:
+# MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/smile_hair_clinic
+
+# Not: .env dosyası git'e commit edilmemelidir (zaten .gitignore'da)
+

@@ -1,0 +1,45 @@
+# Flutter
+smile_hair_clinic/.dart_tool/
+smile_hair_clinic/.flutter-plugins
+smile_hair_clinic/.flutter-plugins-dependencies
+smile_hair_clinic/.packages
+smile_hair_clinic/.pub-cache/
+smile_hair_clinic/.pub/
+smile_hair_clinic/build/
+smile_hair_clinic/.metadata
+
+# Android
+smile_hair_clinic/android/.gradle/
+smile_hair_clinic/android/local.properties
+smile_hair_clinic/android/.idea/
+
+# iOS
+smile_hair_clinic/ios/Pods/
+smile_hair_clinic/ios/.symlinks/
+smile_hair_clinic/ios/Flutter/Flutter.framework
+smile_hair_clinic/ios/Flutter/Flutter.podspec
+
+# Node.js
+backend/node_modules/
+backend/.env
+backend/.npm
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# APK
+*.apk
+!smile_hair_clinic/build/app/outputs/flutter-apk/*.apk
+
+# Logs
+*.log
+
