@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461750300189",
+    "project_id": "smile-hair-clinic-2025",
+    "storage_bucket": "smile-hair-clinic-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461750300189:android:fed507a5c65dc83361e0f4",
+        "android_client_info": {
+          "package_name": "com.smilehair.clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChzHh-R51kapCSihtBAEmVSboKCLARMIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
